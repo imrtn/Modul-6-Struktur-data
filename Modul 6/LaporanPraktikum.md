@@ -907,7 +907,11 @@ Program dijalankan dengan memasukkan empat data kendaraan melalui terminal. Jika
 
 ##### Output 1
 
-![Screenshot Output Unguided]()
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-6-Struktur-data/blob/4e86739819eac7e1e8c1f41f402b0813974a935c/Modul%206/Output/Output1.png)
+
+##### Output 2
+
+![Screenshot Output Unguided](https://github.com/imrtn/Modul-6-Struktur-data/blob/4e86739819eac7e1e8c1f41f402b0813974a935c/Modul%206/Output/Output2.png)
 
 ## Kesimpulan
 
